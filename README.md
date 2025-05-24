@@ -1,6 +1,6 @@
 # PharmaGraph
 
-Drug-drug interactions (DDIs) pose significant risks
+Drug-drug interactions pose significant risks
 to patient safety, especially for those on complex medication
 regimens. We present PharmaGraph, a system that leverages a
 knowledge graph of drug interactions and retrieval-augmented
