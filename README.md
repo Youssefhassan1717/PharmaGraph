@@ -13,7 +13,7 @@ of drugs interacts, (2) finding all interaction partners for a given
 drug, (3) checking a medication against a list of other drugs for
 potential interactions, and (4) recommending a safe alternative
 drug for a given condition considering a patient’s current medi-
-cations. We employ a BioNLP-trained entity recognizer (SpaCy
+cations. We employ a BioNLP-trained entity recognizer (Spacy
 BC5CDR) to extract drug and condition entities from user input,
 and we explore multiple knowledge retrieval methods—from di-
 rect graph queries to advanced Retrieval-Augmented Generation
